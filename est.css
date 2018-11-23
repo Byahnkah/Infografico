@@ -1,0 +1,51 @@
+.container{
+	overflow: hidden;
+	margin-left: 10vw;
+	margin-right: 10vw;
+}
+.containerEsquerdo{
+	float: left;
+	width: 33%;
+	background-color: blue;
+	height: 304vw;
+}
+.containerDireito{
+	background-color: red;
+	border-style: solid;
+	height: 30vw;
+}
+.topo{
+	background-color: green;
+	height: 25vw;
+}
+.fotoUsuario{
+	position: absolute;
+	background-color: yellow;
+	border-style: solid;
+	height: 15vw;
+	width: 15vw;
+	margin-top: 10vw;
+	margin-left: 5vw;
+	z-index: 1;
+}
+.foto1{
+	position: absolute;
+	background-color: purple;
+	border-style: solid;
+	height: 15vw;
+	width: 30vw;
+	margin-top: 8vw;
+	margin-left: 36vw;
+	z-index: 1;
+}
+.botao1{
+	position: absolute;
+	background-color: black;
+	border: none;
+    color: white;
+    padding: 1vw 3vw;
+    font-size: 1vw;
+    margin-top: 25vw;
+    margin-left: 30vw;
+    z-index: 1;
+}
