@@ -1,35 +1,55 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="est.css">
+		<link rel="stylesheet" type="text/css" href="estilo.css">
 	</head>
 
 	<body>
-		<div class="container">
-			<div class="fotoUsuario"> </div>
-			<div class="topo"> </div>
-			<div class="foto1"> </div>
-			<button class="botao1" onclick="chamaFuncao()"> Curtir </button>
-			<div class="containerEsquerdo"> </div>
-			<div class="containerDireito"> 1 </div>
-			<div class="containerDireito"> 2 </div>
-			<div class="containerDireito"> 3 </div>
-			<div class="containerDireito"> 4 </div>
-			<div class="containerDireito"> 5 </div>
-			<div class="containerDireito"> 6 </div>
-			<div class="containerDireito"> 7 </div>
-			<div class="containerDireito"> 8 </div>
-			<div class="containerDireito"> 9 </div>
-			<div class="containerDireito"> 10 </div>
+		<img src="cabecalho.png" width="100%">
+		<img src="informacoes.png" width="100%">
+		<div class="separacao">
+			<div class="noticia">
+				<img src="noticia1.png" width="100%">
+			</div>
+			<div>
+				<img src="noticia2.png" width="100%">
+			</div>
+			<div>
+				<img src="noticia3.png" width="100%">
+			</div>
+				<div class="botoes" onmouseover="" style="cursor: pointer">
+					<img src="curtir.png" width="30%" onclick="chamaFuncao1()">
+					<img src="compartilhar.png" width="30%" onclick="chamaFuncao2()">
+					<img src="denunciar.png" width="30%" onclick="chamaFuncao0()">
+				</div>
+				<div class="botoes0" onmouseover="" style="cursor: pointer">
+					<img src="curtir.png" width="30%" onclick="chamaFuncao1()">
+					<img src="compartilhar.png" width="30%" onclick="chamaFuncao2()">
+					<img src="denunciar.png" width="30%" onclick="chamaFuncao0()">
+				</div>
+				<div class="botoes0" onmouseover="" style="cursor: pointer">
+					<img src="curtir.png" width="30%" onclick="chamaFuncao1()">
+					<img src="compartilhar.png" width="30%" onclick="chamaFuncao0()">
+					<img src="denunciar.png" width="30%" onclick="chamaFuncao2()">
+				</div>
 		</div>
+
 		<script>
 			var cont = 0;
 			console.log(cont);
-	function chamaFuncao() { 
-   cont += 1;
-   console.log(cont);
-}
-</script>
+			function chamaFuncao0() { 
+   				cont += 0;
+   				console.log(cont);
+			}
+			function chamaFuncao1() { 
+   				cont += 1;
+   				console.log(cont);
+			}
+			function chamaFuncao2() { 
+   				cont += 2;
+   				console.log(cont);
+			}
+		</script>
 	</body>
         
 </html>
