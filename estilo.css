@@ -21,3 +21,14 @@ body{
 	padding-left: 7%;
 	z-index: 1;
 }
+
+button{
+	background-color: #CCCCCC;
+	margin-left: 1vw;
+	width: 15vw;
+	height: 3.5vw;
+	font-family: Arial Bold, Helvetica, sans-serif;
+	font-size: 1.7vw;
+	border: none;
+	color: #0000FF;
+}
