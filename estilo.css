@@ -1,0 +1,23 @@
+body{
+	background-color: #CCCCCC;
+}
+
+.separacao{
+	margin-left: 39.95%;
+}
+
+.noticia{
+	margin-top: -46%;
+}
+
+.botoes{
+	margin-top: -183%;
+	padding-left: 7%;
+	z-index: 1;
+}
+
+.botoes0{
+	margin-top: 80%;
+	padding-left: 7%;
+	z-index: 1;
+}
