@@ -57,136 +57,151 @@ body{
 }
 
 #b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9{
-	background-color: white;
-	margin-left: 1vw;
+	background-color: #E9EBEE;
+	margin-left: 0vw;
 	width: 16vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.8vw;
 	border: none;
+	border-radius: 2vw;
+	margin-right: 2vw;
 	color: #000D2F;
 }
 
 #b10,#b11,#b12,#b13,#b14,#b15,#b16,#b17,#b18{
-	background-color: white;
-	margin-left: 1vw;
+	background-color: #E9EBEE;
+	margin-left: 0vw;
 	width: 16vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.8vw;
 	border: none;
+	border-radius: 2vw;
+	margin-right: 2vw;
 	color: #000D2F;
 }
 
 #b19,#b20,#b21,#b22,#b23,#b24,#b25,#b26,#b27{
-	background-color: white;
-	margin-left: 1vw;
+	background-color: #E9EBEE;
+	margin-left: 0vw;
 	width: 16vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.8vw;
 	border: none;
+	border-radius: 2vw;
+	margin-right: 2vw;
 	color: #000D2F;
 }
 
 #b28,#b29,#b30,#b31,#b32,#b33,#b34,#b35,#b36{
-	background-color: white;
-	margin-left: 1vw;
+	background-color: #E9EBEE;
+	margin-left: 0vw;
 	width: 16vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.8vw;
 	border: none;
+	border-radius: 2vw;
+	margin-right: 2vw;
 	color: #000D2F;
 }
 
 #seta1{
-	background-color: white;
+	background-color: #E9EBEE;
 	margin-left: 90vw;
 	width: 3.5vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.7vw;
 	border: none;
+	border-radius: 2vw;
 	color: #000D2F;
-	margin-top: -612vw;
+	margin-top: -582vw;
 	position: absolute;
 }
 
 #seta2{
-	background-color: white;
+	background-color: #E9EBEE;
 	margin-left: 90vw;
 	width: 3.5vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.7vw;
 	border: none;
+	border-radius: 2vw;
 	color: #000D2F;
-	margin-top: -484vw;
+	margin-top: -458vw;
 	position: absolute;
 }
 
 #seta3{
-	background-color: white;
+	background-color: #E9EBEE;
 	margin-left: 90vw;
 	width: 3.5vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.7vw;
 	border: none;
+	border-radius: 2vw;
 	color: #000D2F;
-	margin-top: -420vw;
+	margin-top: -400vw;
 	position: absolute;
 }
 
 #seta4{
-	background-color: white;
+	background-color: #E9EBEE;
 	margin-left: 90vw;
 	width: 3.5vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.7vw;
 	border: none;
+	border-radius: 2vw;
 	color: #000D2F;
-	margin-top: -228vw;
+	margin-top: -216vw;
 	position: absolute;
 }
 
 #seta5{
-	background-color: white;
+	background-color: #E9EBEE;
 	margin-left: 90vw;
 	width: 3.5vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.7vw;
 	border: none;
+	border-radius: 2vw;
 	color: #000D2F;
-	margin-top: -163vw;
+	margin-top: -158vw;
 	position: absolute;
 }
 
 #seta6{
-	background-color: white;
+	background-color: #E9EBEE;
 	margin-left: 90vw;
 	width: 3.5vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.7vw;
 	border: none;
+	border-radius: 2vw;
 	color: #000D2F;
 	margin-top: -35vw;
 	position: absolute;
 }
 
 #final{
-	background-color: white;
+	background-color: #000D2F;
 	margin-left: -55vw;
 	width: 15vw;
 	height: 3.5vw;
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.7vw;
 	border: none;
-	color: #000D2F;
-	margin-top: 65vw;
+	color: #E9EBEE;
+	border-radius: 2vw;
+	margin-top: 63vw;
 	position: absolute;
 }

@@ -12,6 +12,7 @@ button{
 	font-family: Arial Bold, Helvetica, sans-serif;
 	font-size: 1.7vw;
 	border: none;
+	border-radius: 2vw;
 	color: #000D2F;
 	margin-top: -5vw;
 	position: absolute;
